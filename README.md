@@ -58,7 +58,7 @@
   * Ensure you are running Node.js v16.  
   * Clone the repository.
   ```
-    git clone git@github.com:erin-m-keller/keller-readme.git
+    git clone git@github.com:iam3dski/readme-generator.git
   ```
   * Install the dependencies.
   ``` bash
